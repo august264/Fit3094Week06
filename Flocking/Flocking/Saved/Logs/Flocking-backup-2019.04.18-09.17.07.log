@@ -1,0 +1,1742 @@
+﻿Log file open, 04/17/19 18:08:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Flocking
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1948597803) SRandInit(1948597803).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.286101
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.426s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Desktop/FIT3094/Week06/Flocking/Binaries/Win64/UE4Editor-Flocking-751.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-10ENIUV (192.168.0.8:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.17-08.08.43:167][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.17-08.08.43:167][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.17-08.08.43:191][  0]LogInit: Computer: DESKTOP-10ENIUV
+[2019.04.17-08.08.43:191][  0]LogInit: User: Vincent
+[2019.04.17-08.08.43:191][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.17-08.08.43:191][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.04.17-08.08.43:192][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.17-08.08.43:192][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.17-08.08.43:192][  0]LogMemory: Process Physical Memory: 275.24 MB used, 275.25 MB peak
+[2019.04.17-08.08.43:192][  0]LogMemory: Process Virtual Memory: 264.64 MB used, 264.64 MB peak
+[2019.04.17-08.08.43:192][  0]LogMemory: Physical Memory: 7316.66 MB used,  8992.26 MB free, 16308.92 MB total
+[2019.04.17-08.08.43:192][  0]LogMemory: Virtual Memory: 4793.13 MB used,  8992.26 MB free, 134217728.00 MB total
+[2019.04.17-08.08.43:224][  0]LogInit: Using OS detected language (en-US).
+[2019.04.17-08.08.43:224][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.17-08.08.43:233][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.17-08.08.43:720][  0]LogStreaming: Display: Took  0.496s to EndInitTextLocalization.
+[2019.04.17-08.08.43:721][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.17-08.08.43:779][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.17-08.08.43:779][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.17-08.08.44:381][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.17-08.08.44:461][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.04.17-08.08.44:461][  0]LogD3D11RHI:       6054/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.17-08.08.44:491][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2019.04.17-08.08.44:491][  0]LogD3D11RHI:       128/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.17-08.08.44:494][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.17-08.08.44:494][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.17-08.08.44:494][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.17-08.08.44:526][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.17-08.08.44:526][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.17-08.08.44:526][  0]LogWindows: EnumDisplayDevices:
+[2019.04.17-08.08.44:526][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2019.04.17-08.08.44:526][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.04.17-08.08.44:527][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2019.04.17-08.08.44:527][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.17-08.08.44:527][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.04.17-08.08.44:527][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.17-08.08.44:527][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.17-08.08.44:527][  0]LogRHI: Texture pool is 4237 MB (70% of 6054 MB)
+[2019.04.17-08.08.44:577][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.04.17-08.08.44:577][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.04.17-08.08.44:577][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.17-08.08.44:595][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.17-08.08.44:596][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../../Desktop/FIT3094/Week06/Flocking/Intermediate/Shaders/WorkingDirectory/10800/).
+[2019.04.17-08.08.44:597][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Vincent/AppData/Local/Temp/UnrealShaderWorkingDir/E8AC72E640364A06B22C0593903120E5/'.
+[2019.04.17-08.08.45:054][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.17-08.08.45:078][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.17-08.08.45:102][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.17-08.08.45:125][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.17-08.08.45:150][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.17-08.08.45:174][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.17-08.08.45:196][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.17-08.08.45:218][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.17-08.08.45:231][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.17-08.08.45:250][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.04.17-08.08.45:270][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.04.17-08.08.45:290][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.04.17-08.08.45:309][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.04.17-08.08.45:328][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.04.17-08.08.45:346][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.04.17-08.08.45:385][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.04.17-08.08.45:385][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.04.17-08.08.45:404][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.17-08.08.45:407][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.17-08.08.45:455][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.17-08.08.45:472][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.17-08.08.45:491][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.17-08.08.45:509][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.17-08.08.45:527][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.17-08.08.45:546][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.17-08.08.45:546][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.17-08.08.45:854][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.17-08.08.45:855][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.17-08.08.45:855][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.17-08.08.47:155][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.17-08.08.47:236][  0]LogDerivedDataCache: Loaded boot cache 0.08s 77MB C:/Users/Vincent/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.04.17-08.08.47:236][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Vincent/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.04.17-08.08.47:236][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Desktop/FIT3094/Week06/Flocking/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.17-08.08.47:236][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.17-08.08.47:236][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Desktop/FIT3094/Week06/Flocking/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.17-08.08.47:236][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.17-08.08.47:257][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.17-08.08.47:271][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Vincent/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.17-08.08.47:271][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.17-08.08.47:271][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.17-08.08.47:289][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.17-08.08.47:289][  0]LogSlate: Using Freetype 2.6.0
+[2019.04.17-08.08.47:291][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.17-08.08.47:291][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.17-08.08.47:590][  0]LogAssetRegistry: FAssetRegistry took 0.0292 seconds to start up
+[2019.04.17-08.08.48:102][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.17-08.08.48:396][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.17-08.08.48:402][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.17-08.08.48:402][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.17-08.08.48:402][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.17-08.08.48:402][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.04.17-08.08.48:402][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.04.17-08.08.48:488][  0]LogNetVersion: Flocking , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1190142599)
+[2019.04.17-08.08.49:743][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.431429 seconds
+[2019.04.17-08.08.49:756][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.04.17-08.08.49:756][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2019.04.17-08.08.49:756][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.17-08.08.54:082][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.17-08.08.54:165][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.17-08.08.55:535][  0]SourceControl: Source control is disabled
+[2019.04.17-08.08.55:535][  0]SourceControl: Source control is disabled
+[2019.04.17-08.08.55:608][  0]SourceControl: Source control is disabled
+[2019.04.17-08.08.55:685][  0]SourceControl: Source control is disabled
+[2019.04.17-08.08.57:342][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.17-08.08.58:024][  0]LogOcInput: OculusInput pre-init called
+[2019.04.17-08.08.58:414][  0]LogEngine: Initializing Engine...
+[2019.04.17-08.08.58:418][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.17-08.08.58:420][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.17-08.08.58:420][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.17-08.08.58:923][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.17-08.08.59:059][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-08.08.59:293][  0]LogInit: FAudioDevice initialized.
+[2019.04.17-08.08.59:373][  0]LogDerivedDataCache: Saved boot cache 0.08s 77MB C:/Users/Vincent/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.04.17-08.08.59:395][  0]LogInit: Texture streaming: Enabled
+[2019.04.17-08.08.59:428][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.17-08.08.59:452][  0]LogInit: Transaction tracking system initialized
+[2019.04.17-08.08.59:503][  0]BlueprintLog: New page: Editor Load
+[2019.04.17-08.08.59:661][  0]LocalizationService: Localization service is disabled
+[2019.04.17-08.08.59:918][  0]LogConsoleResponse: Display: 
+[2019.04.17-08.09.00:298][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.17-08.09.00:298][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.17-08.09.00:299][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.17-08.09.00:299][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.17-08.09.00:299][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.17-08.09.00:580][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Content/' took 0.03s
+[2019.04.17-08.09.01:730][  0]SourceControl: Source control is disabled
+[2019.04.17-08.09.01:730][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.17-08.09.01:732][  0]LightingResults: New page: Lighting Build
+[2019.04.17-08.09.01:738][  0]MapCheck: New page: Map Check
+[2019.04.17-08.09.01:738][  0]LightingResults: New page: Lighting Build
+[2019.04.17-08.09.02:025][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.17-08.09.02:040][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.17-08.09.02:056][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.17-08.09.02:377][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 320.614ms to complete.
+[2019.04.17-08.09.02:377][  0]LogFileHelpers: Loading map 'Template_Default' took 0.646
+[2019.04.17-08.09.02:584][  0]LogCollectionManager: Loaded 0 collections in 0.003058 seconds
+[2019.04.17-08.09.02:636][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Saved/Collections/' took 0.01s
+[2019.04.17-08.09.02:636][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Content/Developers/Vincent/Collections/' took 0.01s
+[2019.04.17-08.09.02:636][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Content/Collections/' took 0.01s
+[2019.04.17-08.09.02:636][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.17-08.09.02:648][  0]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 2454 classes and 560 folders.
+[2019.04.17-08.09.02:662][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0018 seconds. Added 0 classes and 0 folders.
+[2019.04.17-08.09.03:122][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2019.04.17-08.09.03:134][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2019.04.17-08.09.03:211][  0]LogSlate: Took 0.000567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.17-08.09.03:213][  0]LogSlate: Took 0.000470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.17-08.09.03:233][  0]LogSlate: Took 0.010693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.17-08.09.03:243][  0]LogSlate: Took 0.007531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.04.17-08.09.03:454][  0]LogRenderer: Reallocating scene render targets to support 952x424 Format 10 NumSamples 1 (Frame:1).
+[2019.04.17-08.09.03:736][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0019 seconds. Added 0 classes and 0 folders.
+[2019.04.17-08.09.03:736][  0]LogLoad: (Engine Initialization) Total time: 29.81 seconds
+[2019.04.17-08.09.03:736][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.17-08.09.04:095][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.17-08.09.04:421][  1]LogAssetRegistry: Asset discovery search completed in 16.8536 seconds
+[2019.04.17-08.09.04:423][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.17-08.09.04:423][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000279 seconds (updated 0 objects)
+[2019.04.17-08.09.53:036][195]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.17-08.09.53:037][195]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2019.04.17-08.09.54:751][305]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.17-08.09.54:751][305]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.17-08.09.56:751][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.17-08.09.57:592][495]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.17-08.09.58:256][495]LogSlate: Window 'New Level' being destroyed
+[2019.04.17-08.09.59:462][570]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.17-08.10.00:438][629]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.17-08.10.03:299][802]Cmd: MAP LOAD FILE="../../../../../../Desktop/FIT3094/Week06/Flocking/Content/Icantfindyourmap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.17-08.10.03:315][802]LogSlate: Took 0.010351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.17-08.10.03:344][802]LightingResults: New page: Lighting Build
+[2019.04.17-08.10.03:345][802]LoadErrors: New page: Loading map: Icantfindyourmap.umap
+[2019.04.17-08.10.03:348][802]MapCheck: New page: Map Check
+[2019.04.17-08.10.03:348][802]LightingResults: New page: Lighting Build
+[2019.04.17-08.10.03:407][802]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-08.10.03:484][802]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.17-08.10.03:538][802]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.17-08.10.03:838][802]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 299.723ms to complete.
+[2019.04.17-08.10.03:838][802]LogFileHelpers: Loading map 'Icantfindyourmap' took 0.541
+[2019.04.17-08.10.03:840][802]LogSlate: Window 'Open Level' being destroyed
+[2019.04.17-08.10.05:115][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-08.10.05:224][870]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-08.10.05:250][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-08.10.05:250][870]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 4:10:05 AM)
+[2019.04.17-08.10.05:251][870]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-08.10.05:255][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003880s)
+[2019.04.17-08.10.05:256][870]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-08.10.05:257][870]LogPlayLevel: PIE: World Init took: (0.001845s)
+[2019.04.17-08.10.05:257][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.006618s)
+[2019.04.17-08.10.05:296][870]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-08.10.05:333][870]LogInit: FAudioDevice initialized.
+[2019.04.17-08.10.05:380][870]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-08.10.05:383][870]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 0) at 2019.04.17-18.10.05
+[2019.04.17-08.10.05:383][870]LogWorld: Bringing up level for play took: 0.001368
+[2019.04.17-08.10.05:391][870]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0021 seconds. Added 11 classes and 0 folders.
+[2019.04.17-08.10.05:392][870]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.692
+[2019.04.17-08.18.17:863][940]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.17-08.18.20:732][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.06.55:526][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.06.55:700][882]Candidate modules for hot reload:
+[2019.04.17-09.06.55:700][882]  Flocking
+[2019.04.17-09.06.55:701][882]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,2934 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-09.06.55:710][882]Warning: Starting HotReload took  0.1s.
+[2019.04.17-09.07.14:278][  9]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 5:07:14 AM
+[2019.04.17-09.07.14:278][  9]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-09.07.14:278][  9]CompilerResultsLog: Parsing headers for FlockingEditor
+[2019.04.17-09.07.14:278][  9]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Flocking.uproject" "C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\FlockingEditor\Development\FlockingEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.04.17-09.07.14:279][  9]CompilerResultsLog: Reflection code generated for FlockingEditor in 9.8846081 seconds
+[2019.04.17-09.07.14:279][  9]CompilerResultsLog: Performing 4 actions (4 in parallel)
+[2019.04.17-09.07.14:279][  9]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-09.07.14:279][  9]CompilerResultsLog: Asteroid.gen.cpp
+[2019.04.17-09.07.14:279][  9]CompilerResultsLog: [3/4] Link UE4Editor-Flocking-2934.dll
+[2019.04.17-09.07.14:279][  9]CompilerResultsLog: [4/4] Link UE4Editor-Flocking-2934.lib
+[2019.04.17-09.07.14:279][  9]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-2934.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-2934.exp
+[2019.04.17-09.07.14:280][  9]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-2934.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-2934.suppressed.exp
+[2019.04.17-09.07.14:280][  9]CompilerResultsLog: Total build time: 17.94 seconds (Local executor: 1.83 seconds)
+[2019.04.17-09.07.14:280][  9]LogMainFrame: MainFrame: Module compiling took 18.586 seconds
+[2019.04.17-09.07.14:325][  9]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0026 seconds. Added 2 classes and 2 folders.
+[2019.04.17-09.07.14:327][  9]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-09.07.14:467][  9]LogContentBrowser: Native class hierarchy populated in 0.0190 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-09.07.14:474][  9]Display: HotReload took 18.8s.
+[2019.04.17-09.07.41:318][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.17-09.07.42:122][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.07.42:614][165]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.07.42:642][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.07.42:642][165]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:07:42 AM)
+[2019.04.17-09.07.42:642][165]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.07.42:651][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008716s)
+[2019.04.17-09.07.42:654][165]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.07.42:655][165]LogPlayLevel: PIE: World Init took: (0.002812s)
+[2019.04.17-09.07.42:655][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.012493s)
+[2019.04.17-09.07.42:697][165]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.07.42:721][165]LogInit: FAudioDevice initialized.
+[2019.04.17-09.07.42:754][165]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.07.42:756][165]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 0) at 2019.04.17-19.07.42
+[2019.04.17-09.07.42:756][165]LogWorld: Bringing up level for play took: 0.001040
+[2019.04.17-09.07.42:758][165]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap 0.673
+[2019.04.17-09.09.44:043][  7]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.24.16:138][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.24.16:231][665]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.24.16:255][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.24.16:256][665]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:24:16 AM)
+[2019.04.17-09.24.16:256][665]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.24.16:259][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002651s)
+[2019.04.17-09.24.16:260][665]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.24.16:260][665]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2019.04.17-09.24.16:260][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.004646s)
+[2019.04.17-09.24.16:305][665]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.24.16:333][665]LogInit: FAudioDevice initialized.
+[2019.04.17-09.24.16:371][665]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.24.16:373][665]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 0) at 2019.04.17-19.24.16
+[2019.04.17-09.24.16:373][665]LogWorld: Bringing up level for play took: 0.001114
+[2019.04.17-09.24.16:375][665]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap 0.291
+[2019.04.17-09.24.17:985][756]Candidate modules for hot reload:
+[2019.04.17-09.24.17:985][756]  Flocking
+[2019.04.17-09.24.17:986][756]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,5188 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-09.24.17:993][756]Warning: Starting HotReload took  0.1s.
+[2019.04.17-09.24.24:361][792]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 5:24:24 AM
+[2019.04.17-09.24.24:361][792]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-09.24.24:361][792]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2019.04.17-09.24.24:361][792]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-09.24.24:361][792]CompilerResultsLog: [2/3] Link UE4Editor-Flocking-5188.dll
+[2019.04.17-09.24.24:361][792]CompilerResultsLog: [3/3] Link UE4Editor-Flocking-5188.lib
+[2019.04.17-09.24.24:362][792]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-5188.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-5188.exp
+[2019.04.17-09.24.24:362][792]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-5188.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-5188.suppressed.exp
+[2019.04.17-09.24.24:362][792]CompilerResultsLog: Total build time: 5.86 seconds (Local executor: 1.93 seconds)
+[2019.04.17-09.24.24:363][792]LogMainFrame: MainFrame: Module compiling took 6.389 seconds
+[2019.04.17-09.24.24:398][792]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0018 seconds. Added 2 classes and 2 folders.
+[2019.04.17-09.24.24:400][792]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-09.24.24:440][792]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-09.24.24:444][792]Display: HotReload took  6.5s.
+[2019.04.17-09.24.28:128][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.24.28:199][845]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.24.28:224][845]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.24.28:224][845]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:24:28 AM)
+[2019.04.17-09.24.28:224][845]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.24.28:227][845]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002377s)
+[2019.04.17-09.24.28:228][845]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.24.28:229][845]LogPlayLevel: PIE: World Init took: (0.001336s)
+[2019.04.17-09.24.28:229][845]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.004316s)
+[2019.04.17-09.24.28:267][845]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.24.28:288][845]LogInit: FAudioDevice initialized.
+[2019.04.17-09.24.28:321][845]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.24.28:323][845]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 0) at 2019.04.17-19.24.28
+[2019.04.17-09.24.28:323][845]LogWorld: Bringing up level for play took: 0.000880
+[2019.04.17-09.24.28:325][845]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap 0.241
+[2019.04.17-09.24.32:349][ 84]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.24.32:368][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.24.32:368][ 84]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:24:32 AM)
+[2019.04.17-09.24.32:368][ 84]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.24.32:372][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003678s)
+[2019.04.17-09.24.32:373][ 84]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.24.32:374][ 84]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2019.04.17-09.24.32:374][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.005872s)
+[2019.04.17-09.24.32:411][ 84]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.24.32:433][ 84]LogInit: FAudioDevice initialized.
+[2019.04.17-09.24.32:466][ 84]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.24.32:468][ 84]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 0) at 2019.04.17-19.24.32
+[2019.04.17-09.24.32:469][ 84]LogWorld: Bringing up level for play took: 0.000896
+[2019.04.17-09.24.32:470][ 84]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap 0.386
+[2019.04.17-09.24.35:741][278]LogEditorViewport: Clicking on Actor (LMB): Asteroid (Asteroid23)
+[2019.04.17-09.24.37:753][401]LogEditorViewport: Clicking on Actor (LMB): Asteroid (Asteroid21)
+[2019.04.17-09.24.38:864][471]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.17-09.24.39:523][513]LogEditorViewport: Clicking on Actor (LMB): Asteroid (Asteroid21)
+[2019.04.17-09.24.41:511][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.24.41:585][645]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.24.41:609][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.24.41:609][645]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:24:41 AM)
+[2019.04.17-09.24.41:610][645]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.24.41:612][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002098s)
+[2019.04.17-09.24.41:613][645]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.24.41:613][645]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2019.04.17-09.24.41:614][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.004045s)
+[2019.04.17-09.24.41:650][645]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.24.41:672][645]LogInit: FAudioDevice initialized.
+[2019.04.17-09.24.41:705][645]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.24.41:707][645]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 0) at 2019.04.17-19.24.41
+[2019.04.17-09.24.41:707][645]LogWorld: Bringing up level for play took: 0.000798
+[2019.04.17-09.24.41:708][645]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.376
+[2019.04.17-09.25.11:642][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icantfindyourmap" FILE="../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Autosaves/Game/Icantfindyourmap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.04.17-09.25.11:687][ 71]LogSavePackage: Save=25.35ms
+[2019.04.17-09.25.11:687][ 71]LogSavePackage: Moving '../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Icantfindyourmap_Auto105689207456AC5FAC16BB5BA25BBEC25.tmp' to '../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Autosaves/Game/Icantfindyourmap_Auto1.umap'
+[2019.04.17-09.25.11:692][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Autosaves/Game/Icantfindyourmap_Auto1.umap
+[2019.04.17-09.25.11:698][ 71]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Icantfindyourmap' took 0.069
+[2019.04.17-09.25.11:698][ 71]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.069
+[2019.04.17-09.25.20:061][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.25.20:162][121]Candidate modules for hot reload:
+[2019.04.17-09.25.20:162][121]  Flocking
+[2019.04.17-09.25.20:162][121]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,2788 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-09.25.20:173][121]Warning: Starting HotReload took  0.1s.
+[2019.04.17-09.25.26:914][180]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 5:25:26 AM
+[2019.04.17-09.25.26:914][180]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-09.25.26:915][180]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2019.04.17-09.25.26:915][180]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-09.25.26:915][180]CompilerResultsLog: [2/3] Link UE4Editor-Flocking-2788.dll
+[2019.04.17-09.25.26:916][180]CompilerResultsLog: [3/3] Link UE4Editor-Flocking-2788.lib
+[2019.04.17-09.25.26:916][180]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-2788.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-2788.exp
+[2019.04.17-09.25.26:916][180]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-2788.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-2788.suppressed.exp
+[2019.04.17-09.25.26:917][180]CompilerResultsLog: Total build time: 6.02 seconds (Local executor: 1.93 seconds)
+[2019.04.17-09.25.26:917][180]LogMainFrame: MainFrame: Module compiling took 6.767 seconds
+[2019.04.17-09.25.26:944][180]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0014 seconds. Added 2 classes and 2 folders.
+[2019.04.17-09.25.26:946][180]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-09.25.26:983][180]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-09.25.26:986][180]Display: HotReload took  6.9s.
+[2019.04.17-09.25.32:701][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.25.32:722][243]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.25.32:745][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.25.32:746][243]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:25:32 AM)
+[2019.04.17-09.25.32:746][243]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.25.32:748][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002075s)
+[2019.04.17-09.25.32:749][243]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.25.32:750][243]LogPlayLevel: PIE: World Init took: (0.001266s)
+[2019.04.17-09.25.32:750][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.003889s)
+[2019.04.17-09.25.32:789][243]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.25.32:810][243]LogInit: FAudioDevice initialized.
+[2019.04.17-09.25.32:845][243]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.25.32:847][243]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 0) at 2019.04.17-19.25.32
+[2019.04.17-09.25.32:848][243]LogWorld: Bringing up level for play took: 0.000967
+[2019.04.17-09.25.32:849][243]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap 0.765
+[2019.04.17-09.25.38:149][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.25.38:255][584]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.25.38:278][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.25.38:278][584]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:25:38 AM)
+[2019.04.17-09.25.38:279][584]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.25.38:281][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001951s)
+[2019.04.17-09.25.38:281][584]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.25.38:282][584]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2019.04.17-09.25.38:282][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.003301s)
+[2019.04.17-09.25.38:321][584]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.25.38:343][584]LogInit: FAudioDevice initialized.
+[2019.04.17-09.25.38:374][584]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.25.38:375][584]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 0) at 2019.04.17-19.25.38
+[2019.04.17-09.25.38:376][584]LogWorld: Bringing up level for play took: 0.000856
+[2019.04.17-09.25.38:377][584]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap 0.293
+[2019.04.17-09.27.21:965][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.27.22:103][219]Candidate modules for hot reload:
+[2019.04.17-09.27.22:103][219]  Flocking
+[2019.04.17-09.27.22:104][219]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,1059 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-09.27.22:113][219]Warning: Starting HotReload took  0.0s.
+[2019.04.17-09.27.29:538][297]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 5:27:29 AM
+[2019.04.17-09.27.29:538][297]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-09.27.29:538][297]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2019.04.17-09.27.29:538][297]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-09.27.29:539][297]CompilerResultsLog: [2/3] Link UE4Editor-Flocking-1059.dll
+[2019.04.17-09.27.29:539][297]CompilerResultsLog: [3/3] Link UE4Editor-Flocking-1059.lib
+[2019.04.17-09.27.29:539][297]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-1059.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-1059.exp
+[2019.04.17-09.27.29:539][297]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-1059.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-1059.suppressed.exp
+[2019.04.17-09.27.29:540][297]CompilerResultsLog: Total build time: 6.70 seconds (Local executor: 2.13 seconds)
+[2019.04.17-09.27.29:540][297]LogMainFrame: MainFrame: Module compiling took 7.447 seconds
+[2019.04.17-09.27.29:572][297]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0016 seconds. Added 2 classes and 2 folders.
+[2019.04.17-09.27.29:574][297]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-09.27.29:614][297]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-09.27.29:618][297]Display: HotReload took  7.6s.
+[2019.04.17-09.27.52:125][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.27.52:223][396]Candidate modules for hot reload:
+[2019.04.17-09.27.52:223][396]  Flocking
+[2019.04.17-09.27.52:224][396]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,6223 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-09.27.52:235][396]Warning: Starting HotReload took  0.1s.
+[2019.04.17-09.27.58:665][436]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 5:27:58 AM
+[2019.04.17-09.27.58:665][436]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-09.27.58:665][436]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2019.04.17-09.27.58:665][436]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-09.27.58:665][436]CompilerResultsLog: [2/3] Link UE4Editor-Flocking-6223.dll
+[2019.04.17-09.27.58:666][436]CompilerResultsLog: [3/3] Link UE4Editor-Flocking-6223.lib
+[2019.04.17-09.27.58:666][436]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-6223.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-6223.exp
+[2019.04.17-09.27.58:667][436]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-6223.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-6223.suppressed.exp
+[2019.04.17-09.27.58:667][436]CompilerResultsLog: Total build time: 5.97 seconds (Local executor: 2.03 seconds)
+[2019.04.17-09.27.58:667][436]LogMainFrame: MainFrame: Module compiling took 6.455 seconds
+[2019.04.17-09.27.58:695][436]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0018 seconds. Added 2 classes and 2 folders.
+[2019.04.17-09.27.58:697][436]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-09.27.58:735][436]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-09.27.58:741][436]Display: HotReload took  6.6s.
+[2019.04.17-09.28.00:943][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.28.01:028][475]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.28.01:054][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.28.01:055][475]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:28:01 AM)
+[2019.04.17-09.28.01:055][475]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.28.01:060][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004090s)
+[2019.04.17-09.28.01:061][475]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.28.01:061][475]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2019.04.17-09.28.01:061][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.006034s)
+[2019.04.17-09.28.01:095][475]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.28.01:115][475]LogInit: FAudioDevice initialized.
+[2019.04.17-09.28.01:148][475]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.28.01:150][475]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 0) at 2019.04.17-19.28.01
+[2019.04.17-09.28.01:150][475]LogWorld: Bringing up level for play took: 0.000741
+[2019.04.17-09.28.01:151][475]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap 1.067
+[2019.04.17-09.28.08:810][954]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.28.08:885][958]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.28.08:909][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.28.08:909][958]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:28:08 AM)
+[2019.04.17-09.28.08:909][958]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.28.08:911][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001902s)
+[2019.04.17-09.28.08:912][958]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.28.08:913][958]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2019.04.17-09.28.08:913][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.003672s)
+[2019.04.17-09.28.08:949][958]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.28.08:969][958]LogInit: FAudioDevice initialized.
+[2019.04.17-09.28.09:005][958]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.28.09:007][958]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 0) at 2019.04.17-19.28.09
+[2019.04.17-09.28.09:008][958]LogWorld: Bringing up level for play took: 0.000876
+[2019.04.17-09.28.09:009][958]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap 0.924
+[2019.04.17-09.29.17:664][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.29.17:782][359]Candidate modules for hot reload:
+[2019.04.17-09.29.17:782][359]  Flocking
+[2019.04.17-09.29.17:783][359]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,1801 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-09.29.17:792][359]Warning: Starting HotReload took  0.1s.
+[2019.04.17-09.29.26:502][559]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 5:29:26 AM
+[2019.04.17-09.29.26:502][559]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-09.29.26:502][559]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2019.04.17-09.29.26:502][559]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-09.29.26:502][559]CompilerResultsLog: [2/3] Link UE4Editor-Flocking-1801.dll
+[2019.04.17-09.29.26:502][559]CompilerResultsLog: [3/3] Link UE4Editor-Flocking-1801.lib
+[2019.04.17-09.29.26:502][559]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-1801.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-1801.exp
+[2019.04.17-09.29.26:503][559]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-1801.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-1801.suppressed.exp
+[2019.04.17-09.29.26:503][559]CompilerResultsLog: Total build time: 7.96 seconds (Local executor: 2.03 seconds)
+[2019.04.17-09.29.26:503][559]LogMainFrame: MainFrame: Module compiling took 8.734 seconds
+[2019.04.17-09.29.26:538][559]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0017 seconds. Added 2 classes and 2 folders.
+[2019.04.17-09.29.26:541][559]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-09.29.26:587][559]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-09.29.26:591][559]Display: HotReload took  8.9s.
+[2019.04.17-09.29.27:826][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.29.27:827][562]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.29.27:850][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.29.27:851][562]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:29:27 AM)
+[2019.04.17-09.29.27:851][562]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.29.27:853][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001878s)
+[2019.04.17-09.29.27:854][562]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.29.27:855][562]LogPlayLevel: PIE: World Init took: (0.001398s)
+[2019.04.17-09.29.27:855][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.003823s)
+[2019.04.17-09.29.27:890][562]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.29.27:913][562]LogInit: FAudioDevice initialized.
+[2019.04.17-09.29.27:947][562]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.29.27:949][562]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 0) at 2019.04.17-19.29.27
+[2019.04.17-09.29.27:949][562]LogWorld: Bringing up level for play took: 0.000853
+[2019.04.17-09.29.27:950][562]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.134
+[2019.04.17-09.29.33:838][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.29.33:919][945]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.29.33:936][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.29.33:937][945]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:29:33 AM)
+[2019.04.17-09.29.33:937][945]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.29.33:940][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002544s)
+[2019.04.17-09.29.33:942][945]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.29.33:943][945]LogPlayLevel: PIE: World Init took: (0.002706s)
+[2019.04.17-09.29.33:943][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.006322s)
+[2019.04.17-09.29.33:974][945]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.29.33:994][945]LogInit: FAudioDevice initialized.
+[2019.04.17-09.29.34:027][945]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.29.34:029][945]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-19.29.34
+[2019.04.17-09.29.34:029][945]LogWorld: Bringing up level for play took: 0.000840
+[2019.04.17-09.29.34:030][945]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.054
+[2019.04.17-09.29.35:552][ 30]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.29.35:573][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.29.35:573][ 30]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:29:35 AM)
+[2019.04.17-09.29.35:574][ 30]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.29.35:577][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003140s)
+[2019.04.17-09.29.35:578][ 30]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.29.35:579][ 30]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2019.04.17-09.29.35:579][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.005159s)
+[2019.04.17-09.29.35:612][ 30]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.29.35:633][ 30]LogInit: FAudioDevice initialized.
+[2019.04.17-09.29.35:666][ 30]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.29.35:668][ 30]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-19.29.35
+[2019.04.17-09.29.35:668][ 30]LogWorld: Bringing up level for play took: 0.000797
+[2019.04.17-09.29.35:669][ 30]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.415
+[2019.04.17-09.29.37:621][143]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.29.37:643][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.29.37:643][143]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:29:37 AM)
+[2019.04.17-09.29.37:643][143]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.29.37:646][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002244s)
+[2019.04.17-09.29.37:646][143]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.29.37:647][143]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2019.04.17-09.29.37:647][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.004029s)
+[2019.04.17-09.29.37:684][143]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.29.37:705][143]LogInit: FAudioDevice initialized.
+[2019.04.17-09.29.37:735][143]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.29.37:737][143]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-19.29.37
+[2019.04.17-09.29.37:737][143]LogWorld: Bringing up level for play took: 0.000868
+[2019.04.17-09.29.37:738][143]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.346
+[2019.04.17-09.29.48:977][816]Cmd: SELECT NONE
+[2019.04.17-09.29.49:626][855]Cmd: SELECT NONE
+[2019.04.17-09.29.49:893][871]Cmd: SELECT NONE
+[2019.04.17-09.29.50:126][885]Cmd: SELECT NONE
+[2019.04.17-09.29.50:359][899]Cmd: SELECT NONE
+[2019.04.17-09.29.50:576][912]Cmd: SELECT NONE
+[2019.04.17-09.29.50:760][923]Cmd: SELECT NONE
+[2019.04.17-09.29.50:960][935]Cmd: SELECT NONE
+[2019.04.17-09.29.51:176][948]Cmd: SELECT NONE
+[2019.04.17-09.29.51:376][960]Cmd: SELECT NONE
+[2019.04.17-09.29.51:543][970]Cmd: SELECT NONE
+[2019.04.17-09.30.32:537][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.30.32:663][524]Candidate modules for hot reload:
+[2019.04.17-09.30.32:664][524]  Flocking
+[2019.04.17-09.30.32:664][524]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,174 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-09.30.32:674][524]Warning: Starting HotReload took  0.1s.
+[2019.04.17-09.30.43:782][178]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 5:30:43 AM
+[2019.04.17-09.30.43:782][178]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-09.30.43:783][178]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2019.04.17-09.30.43:783][178]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-09.30.43:783][178]CompilerResultsLog: [2/3] Link UE4Editor-Flocking-174.dll
+[2019.04.17-09.30.43:784][178]CompilerResultsLog: [3/3] Link UE4Editor-Flocking-174.lib
+[2019.04.17-09.30.43:784][178]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-174.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-174.exp
+[2019.04.17-09.30.43:785][178]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-174.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-174.suppressed.exp
+[2019.04.17-09.30.43:786][178]CompilerResultsLog: Total build time: 10.68 seconds (Local executor: 4.16 seconds)
+[2019.04.17-09.30.43:787][178]LogMainFrame: MainFrame: Module compiling took 11.132 seconds
+[2019.04.17-09.30.43:840][178]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0030 seconds. Added 2 classes and 2 folders.
+[2019.04.17-09.30.43:843][178]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-09.30.43:901][178]LogContentBrowser: Native class hierarchy populated in 0.0178 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-09.30.43:907][178]Display: HotReload took 11.3s.
+[2019.04.17-09.30.45:062][249]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.30.45:091][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.30.45:092][249]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:30:45 AM)
+[2019.04.17-09.30.45:092][249]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.30.45:095][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002678s)
+[2019.04.17-09.30.45:098][249]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.30.45:099][249]LogPlayLevel: PIE: World Init took: (0.004255s)
+[2019.04.17-09.30.45:100][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.007792s)
+[2019.04.17-09.30.45:156][249]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.30.45:186][249]LogInit: FAudioDevice initialized.
+[2019.04.17-09.30.45:219][249]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.30.45:221][249]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 0) at 2019.04.17-19.30.45
+[2019.04.17-09.30.45:221][249]LogWorld: Bringing up level for play took: 0.001208
+[2019.04.17-09.30.45:223][249]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.861
+[2019.04.17-09.31.26:286][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.31.26:423][248]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.04.17-09.31.30:033][454]LogEditorViewport: Clicking on Actor (LMB): Asteroid (Asteroid20)
+[2019.04.17-09.31.31:595][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.31.40:883][ 82]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.04.17-09.31.44:793][304]LogEditorViewport: Clicking on Actor (LMB): Asteroid (Asteroid21)
+[2019.04.17-09.31.46:751][406]LogEditorViewport: Clicking on Actor (LMB): Asteroid (Asteroid22)
+[2019.04.17-09.31.50:971][645]LogEditorViewport: Clicking on Actor (LMB): Asteroid (Asteroid21)
+[2019.04.17-09.31.55:613][884]LogEditorViewport: Clicking on Actor (LMB): Asteroid (Asteroid20)
+[2019.04.17-09.32.01:825][207]LogEditorViewport: Clicking on Actor (LMB): Asteroid (Asteroid23)
+[2019.04.17-09.32.05:343][401]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.17-09.32.05:376][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icantfindyourmap" FILE="../../../../../../Desktop/FIT3094/Week06/Flocking/Content/Icantfindyourmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.17-09.32.05:498][401]LogSavePackage: Save=58.92ms
+[2019.04.17-09.32.05:498][401]LogSavePackage: Moving '../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/IcantfindyourmapCC8DEFB94161578F7AC84A890383541B.tmp' to '../../../../../../Desktop/FIT3094/Week06/Flocking/Content/Icantfindyourmap.umap'
+[2019.04.17-09.32.05:519][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/FIT3094/Week06/Flocking/Content/Icantfindyourmap.umap
+[2019.04.17-09.32.05:579][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icantfindyourmap_BuiltData" FILE="../../../../../../Desktop/FIT3094/Week06/Flocking/Content/Icantfindyourmap_BuiltData.uasset" SILENT=true
+[2019.04.17-09.32.05:658][401]LogSavePackage: Save=40.75ms
+[2019.04.17-09.32.05:658][401]LogSavePackage: Moving '../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Icantfindyourmap_BuiltData4CB66F8D498C47633CF370ABDF8338BB.tmp' to '../../../../../../Desktop/FIT3094/Week06/Flocking/Content/Icantfindyourmap_BuiltData.uasset'
+[2019.04.17-09.32.05:667][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/FIT3094/Week06/Flocking/Content/Icantfindyourmap_BuiltData.uasset
+[2019.04.17-09.32.11:682][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.32.11:764][687]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.32.11:802][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.32.11:802][687]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:32:11 AM)
+[2019.04.17-09.32.11:803][687]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.32.11:808][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004711s)
+[2019.04.17-09.32.11:809][687]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.32.11:810][687]LogPlayLevel: PIE: World Init took: (0.001786s)
+[2019.04.17-09.32.11:811][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.007593s)
+[2019.04.17-09.32.11:890][687]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.32.11:936][687]LogInit: FAudioDevice initialized.
+[2019.04.17-09.32.11:973][687]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.32.11:976][687]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-19.32.11
+[2019.04.17-09.32.11:977][687]LogWorld: Bringing up level for play took: 0.001635
+[2019.04.17-09.32.11:979][687]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.105
+[2019.04.17-09.32.31:282][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.32.31:439][876]Candidate modules for hot reload:
+[2019.04.17-09.32.31:439][876]  Flocking
+[2019.04.17-09.32.31:440][876]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,46 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-09.32.31:452][876]Warning: Starting HotReload took  0.1s.
+[2019.04.17-09.32.47:049][ 96]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 5:32:47 AM
+[2019.04.17-09.32.47:050][ 96]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-09.32.47:051][ 96]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2019.04.17-09.32.47:051][ 96]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-09.32.47:052][ 96]CompilerResultsLog: [2/3] Link UE4Editor-Flocking-46.dll
+[2019.04.17-09.32.47:052][ 96]CompilerResultsLog: [3/3] Link UE4Editor-Flocking-46.lib
+[2019.04.17-09.32.47:053][ 96]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-46.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-46.exp
+[2019.04.17-09.32.47:055][ 96]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-46.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-46.suppressed.exp
+[2019.04.17-09.32.47:057][ 96]CompilerResultsLog: Total build time: 14.84 seconds (Local executor: 6.38 seconds)
+[2019.04.17-09.32.47:057][ 96]LogMainFrame: MainFrame: Module compiling took 15.634 seconds
+[2019.04.17-09.32.47:150][ 96]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0055 seconds. Added 2 classes and 2 folders.
+[2019.04.17-09.32.47:154][ 96]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-09.32.47:263][ 96]LogContentBrowser: Native class hierarchy populated in 0.0304 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-09.32.47:273][ 96]Display: HotReload took 15.9s.
+[2019.04.17-09.32.48:938][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.32.49:023][176]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.32.49:071][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.32.49:072][176]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:32:49 AM)
+[2019.04.17-09.32.49:072][176]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.32.49:078][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005413s)
+[2019.04.17-09.32.49:080][176]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.32.49:081][176]LogPlayLevel: PIE: World Init took: (0.002079s)
+[2019.04.17-09.32.49:081][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.008797s)
+[2019.04.17-09.32.49:178][176]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.32.49:234][176]LogInit: FAudioDevice initialized.
+[2019.04.17-09.32.49:274][176]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.32.49:278][176]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-19.32.49
+[2019.04.17-09.32.49:279][176]LogWorld: Bringing up level for play took: 0.002165
+[2019.04.17-09.32.49:281][176]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap 1.196
+[2019.04.17-09.32.53:197][372]LogEditorViewport: Clicking on Actor (LMB): Asteroid (Asteroid22)
+[2019.04.17-09.32.55:352][472]LogEditorViewport: Clicking on Actor (LMB): Asteroid (Asteroid21)
+[2019.04.17-09.32.57:616][554]LogEditorViewport: Clicking on Actor (LMB): Asteroid (Asteroid20)
+[2019.04.17-09.32.59:535][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.32.59:613][649]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.32.59:651][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.32.59:652][649]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:32:59 AM)
+[2019.04.17-09.32.59:652][649]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.32.59:657][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004342s)
+[2019.04.17-09.32.59:659][649]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.32.59:659][649]LogPlayLevel: PIE: World Init took: (0.001943s)
+[2019.04.17-09.32.59:660][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.007603s)
+[2019.04.17-09.32.59:738][649]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.32.59:784][649]LogInit: FAudioDevice initialized.
+[2019.04.17-09.32.59:825][649]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.32.59:828][649]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-19.32.59
+[2019.04.17-09.32.59:829][649]LogWorld: Bringing up level for play took: 0.001706
+[2019.04.17-09.32.59:831][649]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.254
+[2019.04.17-09.33.26:346][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.33.26:472][859]Candidate modules for hot reload:
+[2019.04.17-09.33.26:472][859]  Flocking
+[2019.04.17-09.33.26:473][859]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,6380 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-09.33.26:487][859]Warning: Starting HotReload took  0.1s.
+[2019.04.17-09.33.39:200][993]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 5:33:39 AM
+[2019.04.17-09.33.39:200][993]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-09.33.39:200][993]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2019.04.17-09.33.39:200][993]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-09.33.39:201][993]CompilerResultsLog: [2/3] Link UE4Editor-Flocking-6380.dll
+[2019.04.17-09.33.39:201][993]CompilerResultsLog: [3/3] Link UE4Editor-Flocking-6380.lib
+[2019.04.17-09.33.39:201][993]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-6380.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-6380.exp
+[2019.04.17-09.33.39:201][993]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-6380.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-6380.suppressed.exp
+[2019.04.17-09.33.39:202][993]CompilerResultsLog: Total build time: 11.70 seconds (Local executor: 2.85 seconds)
+[2019.04.17-09.33.39:202][993]LogMainFrame: MainFrame: Module compiling took 12.745 seconds
+[2019.04.17-09.33.39:237][993]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0021 seconds. Added 2 classes and 2 folders.
+[2019.04.17-09.33.39:239][993]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-09.33.39:290][993]LogContentBrowser: Native class hierarchy populated in 0.0141 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-09.33.39:295][993]Display: HotReload took 12.9s.
+[2019.04.17-09.33.41:879][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.33.41:963][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.33.41:989][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.33.41:989][ 77]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:33:41 AM)
+[2019.04.17-09.33.41:989][ 77]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.33.41:993][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003057s)
+[2019.04.17-09.33.41:994][ 77]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.33.41:994][ 77]LogPlayLevel: PIE: World Init took: (0.001374s)
+[2019.04.17-09.33.41:994][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.005161s)
+[2019.04.17-09.33.42:047][ 77]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.33.42:079][ 77]LogInit: FAudioDevice initialized.
+[2019.04.17-09.33.42:118][ 77]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.33.42:119][ 77]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-19.33.42
+[2019.04.17-09.33.42:120][ 77]LogWorld: Bringing up level for play took: 0.001170
+[2019.04.17-09.33.42:121][ 77]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap 0.037
+[2019.04.17-09.34.02:050][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.34.02:166][262]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.34.02:189][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.34.02:190][262]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:34:02 AM)
+[2019.04.17-09.34.02:190][262]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.34.02:193][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002612s)
+[2019.04.17-09.34.02:194][262]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.34.02:194][262]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2019.04.17-09.34.02:194][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.004265s)
+[2019.04.17-09.34.02:240][262]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.34.02:266][262]LogInit: FAudioDevice initialized.
+[2019.04.17-09.34.02:305][262]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.34.02:307][262]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-19.34.02
+[2019.04.17-09.34.02:307][262]LogWorld: Bringing up level for play took: 0.001063
+[2019.04.17-09.34.02:308][262]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap 0.224
+[2019.04.17-09.37.14:607][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-09.37.14:731][436]Candidate modules for hot reload:
+[2019.04.17-09.37.14:731][436]  Flocking
+[2019.04.17-09.37.14:731][436]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,8213 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-09.37.14:740][436]Warning: Starting HotReload took  0.1s.
+[2019.04.17-09.37.48:578][446]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 5:37:48 AM
+[2019.04.17-09.37.48:579][446]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-09.37.48:579][446]CompilerResultsLog: Parsing headers for FlockingEditor
+[2019.04.17-09.37.48:579][446]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Flocking.uproject" "C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\FlockingEditor\Development\FlockingEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.04.17-09.37.48:580][446]CompilerResultsLog: Reflection code generated for FlockingEditor in 22.0198336 seconds
+[2019.04.17-09.37.48:580][446]CompilerResultsLog: Performing 4 actions (4 in parallel)
+[2019.04.17-09.37.48:580][446]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-09.37.48:580][446]CompilerResultsLog: Asteroid.gen.cpp
+[2019.04.17-09.37.48:580][446]CompilerResultsLog: [3/4] Link UE4Editor-Flocking-8213.dll
+[2019.04.17-09.37.48:581][446]CompilerResultsLog: [4/4] Link UE4Editor-Flocking-8213.lib
+[2019.04.17-09.37.48:581][446]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-8213.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-8213.exp
+[2019.04.17-09.37.48:581][446]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-8213.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-8213.suppressed.exp
+[2019.04.17-09.37.48:582][446]CompilerResultsLog: Total build time: 33.35 seconds (Local executor: 3.15 seconds)
+[2019.04.17-09.37.48:582][446]LogMainFrame: MainFrame: Module compiling took 33.863 seconds
+[2019.04.17-09.37.48:616][446]LogClass: Could not find existing class Asteroid in package /Script/Flocking for HotReload, assuming new class
+[2019.04.17-09.37.48:619][446]LogHotReload: Re-instancing Asteroid after hot-reload.
+[2019.04.17-09.37.48:620][446]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid20_57 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-09.37.48:621][446]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid21_75 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-09.37.48:622][446]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid22_77 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-09.37.48:622][446]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-09.37.48:802][446]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0015 seconds. Added 2 classes and 2 folders.
+[2019.04.17-09.37.48:803][446]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-09.37.48:838][446]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-09.37.48:841][446]Display: HotReload took 34.2s.
+[2019.04.17-09.37.50:637][548]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-09.37.50:659][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-09.37.50:660][548]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 5:37:50 AM)
+[2019.04.17-09.37.50:660][548]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-09.37.50:662][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002192s)
+[2019.04.17-09.37.50:664][548]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-09.37.50:664][548]LogPlayLevel: PIE: World Init took: (0.001841s)
+[2019.04.17-09.37.50:665][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.004922s)
+[2019.04.17-09.37.50:698][548]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-09.37.50:719][548]LogInit: FAudioDevice initialized.
+[2019.04.17-09.37.50:753][548]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-09.37.50:755][548]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-19.37.50
+[2019.04.17-09.37.50:755][548]LogWorld: Bringing up level for play took: 0.000915
+[2019.04.17-09.37.50:756][548]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap 0.672
+[2019.04.17-09.43.22:181][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icantfindyourmap" FILE="../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Autosaves/Game/Icantfindyourmap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.04.17-09.43.22:234][ 64]LogSavePackage: Save=34.62ms
+[2019.04.17-09.43.22:235][ 64]LogSavePackage: Moving '../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Icantfindyourmap_Auto207DB243C440BC0C4A05AECBA58255C98.tmp' to '../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Autosaves/Game/Icantfindyourmap_Auto2.umap'
+[2019.04.17-09.43.22:239][ 64]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Autosaves/Game/Icantfindyourmap_Auto2.umap
+[2019.04.17-09.43.22:244][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Icantfindyourmap' took 0.077
+[2019.04.17-09.43.22:244][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.077
+[2019.04.17-10.36.49:892][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-10.36.50:043][728]Candidate modules for hot reload:
+[2019.04.17-10.36.50:043][728]  Flocking
+[2019.04.17-10.36.50:043][728]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,8833 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-10.36.50:060][728]Warning: Starting HotReload took  0.1s.
+[2019.04.17-10.36.56:609][793]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 6:36:56 AM
+[2019.04.17-10.36.56:609][793]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-10.36.56:610][793]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2019.04.17-10.36.56:610][793]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-10.36.56:610][793]CompilerResultsLog: [2/3] Link UE4Editor-Flocking-8833.dll
+[2019.04.17-10.36.56:610][793]CompilerResultsLog: [3/3] Link UE4Editor-Flocking-8833.lib
+[2019.04.17-10.36.56:610][793]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-8833.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-8833.exp
+[2019.04.17-10.36.56:611][793]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-8833.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-8833.suppressed.exp
+[2019.04.17-10.36.56:611][793]CompilerResultsLog: Total build time: 5.98 seconds (Local executor: 1.83 seconds)
+[2019.04.17-10.36.56:611][793]LogMainFrame: MainFrame: Module compiling took 6.579 seconds
+[2019.04.17-10.36.56:639][793]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0015 seconds. Added 2 classes and 2 folders.
+[2019.04.17-10.36.56:642][793]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-10.36.56:679][793]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-10.36.56:683][793]Display: HotReload took  6.7s.
+[2019.04.17-10.36.59:141][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-10.36.59:257][846]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-10.36.59:282][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-10.36.59:283][846]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 6:36:59 AM)
+[2019.04.17-10.36.59:283][846]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-10.36.59:285][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002294s)
+[2019.04.17-10.36.59:287][846]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-10.36.59:287][846]LogPlayLevel: PIE: World Init took: (0.001720s)
+[2019.04.17-10.36.59:288][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.004605s)
+[2019.04.17-10.36.59:323][846]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-10.36.59:347][846]LogInit: FAudioDevice initialized.
+[2019.04.17-10.36.59:380][846]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-10.36.59:382][846]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-20.36.59
+[2019.04.17-10.36.59:382][846]LogWorld: Bringing up level for play took: 0.000936
+[2019.04.17-10.36.59:383][846]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.701
+[2019.04.17-10.38.13:423][398]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.17-10.54.49:101][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-10.54.49:285][704]Candidate modules for hot reload:
+[2019.04.17-10.54.49:285][704]  Flocking
+[2019.04.17-10.54.49:285][704]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,6614 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-10.54.49:294][704]Warning: Starting HotReload took  0.1s.
+[2019.04.17-10.54.59:853][259]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 6:54:59 AM
+[2019.04.17-10.54.59:853][259]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-10.54.59:853][259]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2019.04.17-10.54.59:853][259]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-10.54.59:853][259]CompilerResultsLog: [2/3] Link UE4Editor-Flocking-6614.dll
+[2019.04.17-10.54.59:854][259]CompilerResultsLog: [3/3] Link UE4Editor-Flocking-6614.lib
+[2019.04.17-10.54.59:854][259]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-6614.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-6614.exp
+[2019.04.17-10.54.59:854][259]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-6614.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-6614.suppressed.exp
+[2019.04.17-10.54.59:855][259]CompilerResultsLog: Total build time: 10.03 seconds (Local executor: 3.05 seconds)
+[2019.04.17-10.54.59:855][259]LogMainFrame: MainFrame: Module compiling took 10.581 seconds
+[2019.04.17-10.54.59:879][259]LogHotReload: Re-instancing Asteroid after hot-reload.
+[2019.04.17-10.54.59:880][259]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid20_57 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-10.54.59:881][259]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid21_75 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-10.54.59:881][259]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid22_77 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-10.54.59:882][259]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-10.55.00:071][259]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0016 seconds. Added 2 classes and 2 folders.
+[2019.04.17-10.55.00:073][259]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-10.55.00:136][259]LogContentBrowser: Native class hierarchy populated in 0.0172 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-10.55.00:147][259]Display: HotReload took 10.9s.
+[2019.04.17-10.55.03:401][334]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-10.55.03:426][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-10.55.03:427][334]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 6:55:03 AM)
+[2019.04.17-10.55.03:427][334]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-10.55.03:429][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002071s)
+[2019.04.17-10.55.03:430][334]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-10.55.03:431][334]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2019.04.17-10.55.03:431][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.004034s)
+[2019.04.17-10.55.03:462][334]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-10.55.03:482][334]LogInit: FAudioDevice initialized.
+[2019.04.17-10.55.03:515][334]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-10.55.03:516][334]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-20.55.03
+[2019.04.17-10.55.03:517][334]LogWorld: Bringing up level for play took: 0.000782
+[2019.04.17-10.55.03:518][334]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.566
+[2019.04.17-10.57.40:478][ 25]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.17-10.57.40:479][ 25]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2019.04.17-10.57.41:263][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-10.57.41:388][ 64]Candidate modules for hot reload:
+[2019.04.17-10.57.41:389][ 64]  Flocking
+[2019.04.17-10.57.41:389][ 64]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,1987 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-10.57.41:398][ 64]Warning: Starting HotReload took  0.1s.
+[2019.04.17-10.57.48:336][133]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 6:57:48 AM
+[2019.04.17-10.57.48:337][133]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-10.57.48:337][133]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2019.04.17-10.57.48:337][133]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-10.57.48:337][133]CompilerResultsLog: [2/3] Link UE4Editor-Flocking-1987.dll
+[2019.04.17-10.57.48:337][133]CompilerResultsLog: [3/3] Link UE4Editor-Flocking-1987.lib
+[2019.04.17-10.57.48:337][133]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-1987.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-1987.exp
+[2019.04.17-10.57.48:338][133]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-1987.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-1987.suppressed.exp
+[2019.04.17-10.57.48:339][133]CompilerResultsLog: Total build time: 6.39 seconds (Local executor: 1.93 seconds)
+[2019.04.17-10.57.48:339][133]LogMainFrame: MainFrame: Module compiling took 6.960 seconds
+[2019.04.17-10.57.48:374][133]LogHotReload: Re-instancing Asteroid after hot-reload.
+[2019.04.17-10.57.48:374][133]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid20_57 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-10.57.48:375][133]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid21_75 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-10.57.48:376][133]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid22_77 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-10.57.48:376][133]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-10.57.48:595][133]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0015 seconds. Added 2 classes and 2 folders.
+[2019.04.17-10.57.48:596][133]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-10.57.48:635][133]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-10.57.48:638][133]Display: HotReload took  7.3s.
+[2019.04.17-10.57.51:031][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-10.57.51:131][200]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-10.57.51:155][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-10.57.51:155][200]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 6:57:51 AM)
+[2019.04.17-10.57.51:156][200]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-10.57.51:158][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002018s)
+[2019.04.17-10.57.51:159][200]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-10.57.51:160][200]LogPlayLevel: PIE: World Init took: (0.001780s)
+[2019.04.17-10.57.51:160][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.004350s)
+[2019.04.17-10.57.51:192][200]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-10.57.51:214][200]LogInit: FAudioDevice initialized.
+[2019.04.17-10.57.51:251][200]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-10.57.51:252][200]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-20.57.51
+[2019.04.17-10.57.51:254][200]LogWorld: Bringing up level for play took: 0.000943
+[2019.04.17-10.57.51:255][200]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.83
+[2019.04.17-10.58.01:265][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-10.58.01:441][622]Candidate modules for hot reload:
+[2019.04.17-10.58.01:441][622]  Flocking
+[2019.04.17-10.58.01:442][622]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,8596 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-10.58.01:450][622]Warning: Starting HotReload took  0.1s.
+[2019.04.17-10.58.07:899][662]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 6:58:07 AM
+[2019.04.17-10.58.07:900][662]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-10.58.07:900][662]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2019.04.17-10.58.07:900][662]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-10.58.07:900][662]CompilerResultsLog: [2/3] Link UE4Editor-Flocking-8596.dll
+[2019.04.17-10.58.07:900][662]CompilerResultsLog: [3/3] Link UE4Editor-Flocking-8596.lib
+[2019.04.17-10.58.07:901][662]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-8596.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-8596.exp
+[2019.04.17-10.58.07:901][662]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-8596.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-8596.suppressed.exp
+[2019.04.17-10.58.07:902][662]CompilerResultsLog: Total build time: 5.69 seconds (Local executor: 1.73 seconds)
+[2019.04.17-10.58.07:902][662]LogMainFrame: MainFrame: Module compiling took 6.471 seconds
+[2019.04.17-10.58.07:929][662]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0014 seconds. Added 2 classes and 2 folders.
+[2019.04.17-10.58.07:931][662]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-10.58.07:969][662]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-10.58.07:973][662]Display: HotReload took  6.6s.
+[2019.04.17-12.07.38:577][173]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.17-12.07.38:578][173]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.17-12.07.39:369][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-12.07.39:481][216]Candidate modules for hot reload:
+[2019.04.17-12.07.39:481][216]  Flocking
+[2019.04.17-12.07.39:493][216]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,651 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-12.07.39:502][216]Warning: Starting HotReload took  0.0s.
+[2019.04.17-12.07.45:169][378]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 8:07:45 AM
+[2019.04.17-12.07.45:169][378]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-12.07.45:169][378]CompilerResultsLog: Target is up to date
+[2019.04.17-12.07.45:170][378]CompilerResultsLog: Total build time: 5.07 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2019.04.17-12.07.45:170][378]LogMainFrame: MainFrame: Module compiling took 5.699 seconds
+[2019.04.17-12.07.45:191][378]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-12.07.45:195][378]Display: HotReload took  5.7s.
+[2019.04.17-12.09.27:163][683]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-12.09.27:188][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-12.09.27:189][683]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 8:09:27 AM)
+[2019.04.17-12.09.27:189][683]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-12.09.27:192][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002850s)
+[2019.04.17-12.09.27:193][683]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-12.09.27:194][683]LogPlayLevel: PIE: World Init took: (0.001398s)
+[2019.04.17-12.09.27:194][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.004843s)
+[2019.04.17-12.09.27:235][683]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-12.09.27:260][683]LogInit: FAudioDevice initialized.
+[2019.04.17-12.09.27:299][683]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-12.09.27:301][683]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-22.09.27
+[2019.04.17-12.09.27:302][683]LogWorld: Bringing up level for play took: 0.000998
+[2019.04.17-12.09.27:303][683]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.782
+[2019.04.17-12.09.59:500][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-13.27.03:990][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-13.27.04:815][245]Candidate modules for hot reload:
+[2019.04.17-13.27.04:816][245]  Flocking
+[2019.04.17-13.27.04:817][245]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,6611 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-13.27.04:826][245]Warning: Starting HotReload took  0.1s.
+[2019.04.17-13.27.12:263][379]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 9:27:12 AM
+[2019.04.17-13.27.12:263][379]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-13.27.12:264][379]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2019.04.17-13.27.12:264][379]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-13.27.12:264][379]CompilerResultsLog: [2/3] Link UE4Editor-Flocking-6611.dll
+[2019.04.17-13.27.12:264][379]CompilerResultsLog: [3/3] Link UE4Editor-Flocking-6611.lib
+[2019.04.17-13.27.12:264][379]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-6611.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-6611.exp
+[2019.04.17-13.27.12:265][379]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-6611.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-6611.suppressed.exp
+[2019.04.17-13.27.12:265][379]CompilerResultsLog: Total build time: 6.89 seconds (Local executor: 1.93 seconds)
+[2019.04.17-13.27.12:266][379]LogMainFrame: MainFrame: Module compiling took 7.460 seconds
+[2019.04.17-13.27.12:328][379]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0036 seconds. Added 2 classes and 2 folders.
+[2019.04.17-13.27.12:331][379]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-13.27.12:397][379]LogContentBrowser: Native class hierarchy populated in 0.0167 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-13.27.12:406][379]Display: HotReload took  7.6s.
+[2019.04.17-13.29.52:255][858]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.17-13.29.52:256][858]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2019.04.17-13.37.14:435][795]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.17-13.37.14:436][795]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.17-13.37.15:099][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-13.37.15:216][836]Candidate modules for hot reload:
+[2019.04.17-13.37.15:216][836]  Flocking
+[2019.04.17-13.37.15:217][836]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,4619 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-13.37.15:226][836]Warning: Starting HotReload took  0.1s.
+[2019.04.17-13.37.21:536][871]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 9:37:21 AM
+[2019.04.17-13.37.21:537][871]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-13.37.21:537][871]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2019.04.17-13.37.21:537][871]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-13.37.21:537][871]CompilerResultsLog: [2/3] Link UE4Editor-Flocking-4619.dll
+[2019.04.17-13.37.21:537][871]CompilerResultsLog: [3/3] Link UE4Editor-Flocking-4619.lib
+[2019.04.17-13.37.21:537][871]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-4619.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-4619.exp
+[2019.04.17-13.37.21:538][871]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-4619.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-4619.suppressed.exp
+[2019.04.17-13.37.21:538][871]CompilerResultsLog: Total build time: 5.76 seconds (Local executor: 1.83 seconds)
+[2019.04.17-13.37.21:538][871]LogMainFrame: MainFrame: Module compiling took 6.333 seconds
+[2019.04.17-13.37.21:575][871]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0015 seconds. Added 2 classes and 2 folders.
+[2019.04.17-13.37.21:577][871]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-13.37.21:623][871]LogContentBrowser: Native class hierarchy populated in 0.0133 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-13.37.21:630][871]Display: HotReload took  6.5s.
+[2019.04.17-13.37.30:050][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-13.37.30:126][940]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-13.37.30:155][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-13.37.30:155][940]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 9:37:30 AM)
+[2019.04.17-13.37.30:156][940]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-13.37.30:167][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011230s)
+[2019.04.17-13.37.30:170][940]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-13.37.30:170][940]LogPlayLevel: PIE: World Init took: (0.002433s)
+[2019.04.17-13.37.30:170][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.014242s)
+[2019.04.17-13.37.30:205][940]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-13.37.30:237][940]LogInit: FAudioDevice initialized.
+[2019.04.17-13.37.30:267][940]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-13.37.30:269][940]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 0) at 2019.04.17-23.37.30
+[2019.04.17-13.37.30:269][940]LogWorld: Bringing up level for play took: 0.001134
+[2019.04.17-13.37.30:271][940]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap 0.186
+[2019.04.17-13.46.22:629][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-13.46.22:791][ 69]Candidate modules for hot reload:
+[2019.04.17-13.46.22:792][ 69]  Flocking
+[2019.04.17-13.46.22:792][ 69]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,7379 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-13.46.22:801][ 69]Warning: Starting HotReload took  0.1s.
+[2019.04.17-13.46.29:111][102]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 9:46:29 AM
+[2019.04.17-13.46.29:111][102]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-13.46.29:112][102]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2019.04.17-13.46.29:112][102]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-13.46.29:112][102]CompilerResultsLog: [2/3] Link UE4Editor-Flocking-7379.dll
+[2019.04.17-13.46.29:112][102]CompilerResultsLog: [3/3] Link UE4Editor-Flocking-7379.lib
+[2019.04.17-13.46.29:112][102]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-7379.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-7379.exp
+[2019.04.17-13.46.29:113][102]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-7379.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-7379.suppressed.exp
+[2019.04.17-13.46.29:114][102]CompilerResultsLog: Total build time: 5.71 seconds (Local executor: 1.83 seconds)
+[2019.04.17-13.46.29:114][102]LogMainFrame: MainFrame: Module compiling took 6.334 seconds
+[2019.04.17-13.46.29:152][102]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0021 seconds. Added 2 classes and 2 folders.
+[2019.04.17-13.46.29:154][102]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-13.46.29:197][102]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-13.46.29:200][102]Display: HotReload took  6.5s.
+[2019.04.17-13.46.37:285][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-13.46.37:384][168]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-13.46.37:402][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-13.46.37:403][168]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 9:46:37 AM)
+[2019.04.17-13.46.37:404][168]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-13.46.37:408][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004552s)
+[2019.04.17-13.46.37:410][168]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-13.46.37:410][168]LogPlayLevel: PIE: World Init took: (0.001484s)
+[2019.04.17-13.46.37:410][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.006826s)
+[2019.04.17-13.46.37:442][168]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-13.46.37:464][168]LogInit: FAudioDevice initialized.
+[2019.04.17-13.46.37:496][168]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-13.46.37:498][168]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-23.46.37
+[2019.04.17-13.46.37:499][168]LogWorld: Bringing up level for play took: 0.001036
+[2019.04.17-13.46.37:500][168]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.584
+[2019.04.17-13.47.07:054][940]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.17-13.47.12:707][274]Cmd: SELECT NONE
+[2019.04.17-13.49.11:236][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-13.49.11:393][897]Candidate modules for hot reload:
+[2019.04.17-13.49.11:393][897]  Flocking
+[2019.04.17-13.49.11:394][897]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,1251 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-13.49.11:403][897]Warning: Starting HotReload took  0.1s.
+[2019.04.17-13.49.39:690][183]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 9:49:39 AM
+[2019.04.17-13.49.39:690][183]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-13.49.39:690][183]CompilerResultsLog: Parsing headers for FlockingEditor
+[2019.04.17-13.49.39:690][183]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Flocking.uproject" "C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\FlockingEditor\Development\FlockingEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.04.17-13.49.39:691][183]CompilerResultsLog: Reflection code generated for FlockingEditor in 19.7939348 seconds
+[2019.04.17-13.49.39:691][183]CompilerResultsLog: Performing 4 actions (4 in parallel)
+[2019.04.17-13.49.39:691][183]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-13.49.39:691][183]CompilerResultsLog: Asteroid.gen.cpp
+[2019.04.17-13.49.39:691][183]CompilerResultsLog: [3/4] Link UE4Editor-Flocking-1251.dll
+[2019.04.17-13.49.39:691][183]CompilerResultsLog: [4/4] Link UE4Editor-Flocking-1251.lib
+[2019.04.17-13.49.39:691][183]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-1251.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-1251.exp
+[2019.04.17-13.49.39:692][183]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-1251.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-1251.suppressed.exp
+[2019.04.17-13.49.39:692][183]CompilerResultsLog: Total build time: 27.75 seconds (Local executor: 1.73 seconds)
+[2019.04.17-13.49.39:692][183]LogMainFrame: MainFrame: Module compiling took 28.308 seconds
+[2019.04.17-13.49.39:723][183]LogClass: Could not find existing class Asteroid in package /Script/Flocking for HotReload, assuming new class
+[2019.04.17-13.49.39:726][183]LogHotReload: Re-instancing Asteroid after hot-reload.
+[2019.04.17-13.49.39:727][183]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid20_57 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-13.49.39:728][183]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid21_75 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-13.49.39:728][183]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid22_77 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-13.49.39:729][183]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-13.49.39:920][183]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0017 seconds. Added 2 classes and 2 folders.
+[2019.04.17-13.49.39:921][183]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-13.49.39:960][183]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-13.49.39:964][183]Display: HotReload took 28.6s.
+[2019.04.17-13.49.43:046][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-13.49.43:129][232]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-13.49.43:150][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-13.49.43:150][232]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 9:49:43 AM)
+[2019.04.17-13.49.43:151][232]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-13.49.43:156][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005376s)
+[2019.04.17-13.49.43:157][232]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-13.49.43:158][232]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2019.04.17-13.49.43:158][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.007168s)
+[2019.04.17-13.49.43:188][232]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-13.49.43:207][232]LogInit: FAudioDevice initialized.
+[2019.04.17-13.49.43:238][232]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-13.49.43:240][232]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-23.49.43
+[2019.04.17-13.49.43:240][232]LogWorld: Bringing up level for play took: 0.000845
+[2019.04.17-13.49.43:241][232]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.844
+[2019.04.17-13.49.49:162][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.17-13.49.53:447][842]Cmd: SELECT NONE
+[2019.04.17-13.49.55:156][944]Cmd: SELECT NONE
+[2019.04.17-13.50.42:411][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-13.50.43:097][801]LogEditorActor: Deleted Actor: Asteroid
+[2019.04.17-13.50.43:109][801]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2019.04.17-13.50.43:786][841]LogEditorActor: Deleted Actor: Asteroid
+[2019.04.17-13.50.43:799][841]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2019.04.17-13.50.44:360][874]LogEditorActor: Deleted Actor: Asteroid
+[2019.04.17-13.50.44:373][874]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2019.04.17-13.50.45:981][969]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.04.17-13.50.47:365][ 48]Cmd: EDIT COPY
+[2019.04.17-13.50.47:613][ 62]Cmd: EDIT PASTE
+[2019.04.17-13.50.47:625][ 62]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid20_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-13.50.49:807][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-13.50.49:890][191]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-13.50.49:914][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-13.50.49:914][191]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 9:50:49 AM)
+[2019.04.17-13.50.49:914][191]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-13.50.49:917][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002923s)
+[2019.04.17-13.50.49:918][191]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-13.50.49:918][191]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2019.04.17-13.50.49:918][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.004863s)
+[2019.04.17-13.50.49:953][191]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-13.50.49:976][191]LogInit: FAudioDevice initialized.
+[2019.04.17-13.50.50:009][191]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-13.50.50:011][191]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-23.50.50
+[2019.04.17-13.50.50:012][191]LogWorld: Bringing up level for play took: 0.000960
+[2019.04.17-13.50.50:013][191]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.071
+[2019.04.17-13.51.09:370][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-13.51.09:512][542]Candidate modules for hot reload:
+[2019.04.17-13.51.09:512][542]  Flocking
+[2019.04.17-13.51.09:513][542]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,3657 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-13.51.09:523][542]Warning: Starting HotReload took  0.1s.
+[2019.04.17-13.51.16:467][576]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 9:51:16 AM
+[2019.04.17-13.51.16:467][576]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-13.51.16:467][576]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2019.04.17-13.51.16:467][576]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-13.51.16:467][576]CompilerResultsLog: [2/3] Link UE4Editor-Flocking-3657.dll
+[2019.04.17-13.51.16:467][576]CompilerResultsLog: [3/3] Link UE4Editor-Flocking-3657.lib
+[2019.04.17-13.51.16:467][576]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-3657.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-3657.exp
+[2019.04.17-13.51.16:468][576]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-3657.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-3657.suppressed.exp
+[2019.04.17-13.51.16:468][576]CompilerResultsLog: Total build time: 6.39 seconds (Local executor: 1.73 seconds)
+[2019.04.17-13.51.16:468][576]LogMainFrame: MainFrame: Module compiling took 6.968 seconds
+[2019.04.17-13.51.16:495][576]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0013 seconds. Added 2 classes and 2 folders.
+[2019.04.17-13.51.16:496][576]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-13.51.16:534][576]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-13.51.16:537][576]Display: HotReload took  7.1s.
+[2019.04.17-13.51.19:016][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-13.51.19:099][631]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-13.51.19:123][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-13.51.19:123][631]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 9:51:19 AM)
+[2019.04.17-13.51.19:123][631]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-13.51.19:126][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002956s)
+[2019.04.17-13.51.19:129][631]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-13.51.19:130][631]LogPlayLevel: PIE: World Init took: (0.003137s)
+[2019.04.17-13.51.19:131][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.007246s)
+[2019.04.17-13.51.19:162][631]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-13.51.19:182][631]LogInit: FAudioDevice initialized.
+[2019.04.17-13.51.19:218][631]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-13.51.19:219][631]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.17-23.51.19
+[2019.04.17-13.51.19:220][631]LogWorld: Bringing up level for play took: 0.000700
+[2019.04.17-13.51.19:221][631]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap -0.864
+[2019.04.17-13.52.00:911][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icantfindyourmap" FILE="../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Autosaves/Game/Icantfindyourmap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.04.17-13.52.00:959][679]LogSavePackage: Save=22.87ms
+[2019.04.17-13.52.00:960][679]LogSavePackage: Moving '../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Icantfindyourmap_Auto31D89FB8F4BC5624542CB5A8463F40158.tmp' to '../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Autosaves/Game/Icantfindyourmap_Auto3.umap'
+[2019.04.17-13.52.00:964][679]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Autosaves/Game/Icantfindyourmap_Auto3.umap
+[2019.04.17-13.52.00:970][679]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Icantfindyourmap' took 0.072
+[2019.04.17-13.52.00:970][679]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.072
+[2019.04.17-14.05.00:522][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-14.05.00:693][ 90]Candidate modules for hot reload:
+[2019.04.17-14.05.00:693][ 90]  Flocking
+[2019.04.17-14.05.00:694][ 90]Launching UnrealBuildTool... [C:/Users/Vincent/Downloads/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe Flocking -ModuleWithSuffix=Flocking,2582 Win64 Development -editorrecompile -canskiplink "C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Flocking.uproject" ]
+[2019.04.17-14.05.00:703][ 90]Warning: Starting HotReload took  0.1s.
+[2019.04.17-14.05.16:634][167]CompilerResultsLog: New page: Compilation - Apr 18, 2019, 10:05:16 AM
+[2019.04.17-14.05.16:634][167]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.17-14.05.16:634][167]CompilerResultsLog: Parsing headers for FlockingEditor
+[2019.04.17-14.05.16:634][167]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Flocking.uproject" "C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\FlockingEditor\Development\FlockingEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.04.17-14.05.16:635][167]CompilerResultsLog: Reflection code generated for FlockingEditor in 8.9203738 seconds
+[2019.04.17-14.05.16:635][167]CompilerResultsLog: Performing 4 actions (4 in parallel)
+[2019.04.17-14.05.16:635][167]CompilerResultsLog: Asteroid.gen.cpp
+[2019.04.17-14.05.16:635][167]CompilerResultsLog: Asteroid.cpp
+[2019.04.17-14.05.16:635][167]CompilerResultsLog: [3/4] Link UE4Editor-Flocking-2582.dll
+[2019.04.17-14.05.16:635][167]CompilerResultsLog: [4/4] Link UE4Editor-Flocking-2582.lib
+[2019.04.17-14.05.16:635][167]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-2582.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-2582.exp
+[2019.04.17-14.05.16:636][167]CompilerResultsLog:    Creating library C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-2582.suppressed.lib and object C:\Users\Vincent\Desktop\FIT3094\Week06\Flocking\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Flocking-2582.suppressed.exp
+[2019.04.17-14.05.16:636][167]CompilerResultsLog: Total build time: 15.51 seconds (Local executor: 1.63 seconds)
+[2019.04.17-14.05.16:636][167]LogMainFrame: MainFrame: Module compiling took 15.953 seconds
+[2019.04.17-14.05.16:669][167]LogClass: Could not find existing class Asteroid in package /Script/Flocking for HotReload, assuming new class
+[2019.04.17-14.05.16:671][167]LogHotReload: Re-instancing Asteroid after hot-reload.
+[2019.04.17-14.05.16:672][167]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid20_57 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-14.05.16:673][167]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid21 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-14.05.16:787][167]LogContentBrowser: Native class hierarchy updated for 'Flocking' in 0.0014 seconds. Added 2 classes and 2 folders.
+[2019.04.17-14.05.16:789][167]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.17-14.05.16:833][167]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 2455 classes and 562 folders.
+[2019.04.17-14.05.16:838][167]Display: HotReload took 16.2s.
+[2019.04.17-14.05.20:729][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-14.05.20:812][253]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-14.05.20:836][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-14.05.20:836][253]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 10:05:20 AM)
+[2019.04.17-14.05.20:836][253]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-14.05.20:839][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002960s)
+[2019.04.17-14.05.20:840][253]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-14.05.20:841][253]LogPlayLevel: PIE: World Init took: (0.001407s)
+[2019.04.17-14.05.20:841][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.004881s)
+[2019.04.17-14.05.20:877][253]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-14.05.20:902][253]LogInit: FAudioDevice initialized.
+[2019.04.17-14.05.20:937][253]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-14.05.20:939][253]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.18-00.05.20
+[2019.04.17-14.05.20:939][253]LogWorld: Bringing up level for play took: 0.000812
+[2019.04.17-14.05.20:940][253]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap 0.855
+[2019.04.17-14.05.35:237][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-14.05.35:945][140]Cmd: EDIT COPY
+[2019.04.17-14.05.36:313][162]Cmd: EDIT PASTE
+[2019.04.17-14.05.36:322][162]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid21_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-14.05.36:504][172]Cmd: EDIT PASTE
+[2019.04.17-14.05.36:511][172]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid21_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-14.05.36:677][181]Cmd: EDIT PASTE
+[2019.04.17-14.05.36:685][181]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid21_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-14.05.36:845][189]Cmd: EDIT PASTE
+[2019.04.17-14.05.36:854][189]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid21_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-14.05.36:967][194]Cmd: EDIT PASTE
+[2019.04.17-14.05.36:973][194]LogActor: Warning: Asteroid /Game/Icantfindyourmap.Icantfindyourmap:PersistentLevel.Asteroid21_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2019.04.17-14.05.38:172][260]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.17-14.05.38:193][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.17-14.05.38:193][260]PIE: New page: PIE session: Icantfindyourmap (Apr 18, 2019, 10:05:38 AM)
+[2019.04.17-14.05.38:193][260]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Icantfindyourmap
+[2019.04.17-14.05.38:195][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002228s)
+[2019.04.17-14.05.38:196][260]LogAIModule: Creating AISystem for world Icantfindyourmap
+[2019.04.17-14.05.38:197][260]LogPlayLevel: PIE: World Init took: (0.001500s)
+[2019.04.17-14.05.38:197][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Icantfindyourmap.Icantfindyourmap to /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap (0.004343s)
+[2019.04.17-14.05.38:233][260]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.17-14.05.38:253][260]LogInit: FAudioDevice initialized.
+[2019.04.17-14.05.38:288][260]LogLoad: Game class is 'GameModeBase'
+[2019.04.17-14.05.38:290][260]LogWorld: Bringing World /Game/UEDPIE_0_Icantfindyourmap.Icantfindyourmap up for play (max tick rate 60) at 2019.04.18-00.05.38
+[2019.04.17-14.05.38:290][260]LogWorld: Bringing up level for play took: 0.000995
+[2019.04.17-14.05.38:291][260]PIE: Play in editor start time for /Game/UEDPIE_0_Icantfindyourmap 0.207
+[2019.04.17-14.06.14:492][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icantfindyourmap" FILE="../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Autosaves/Game/Icantfindyourmap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.04.17-14.06.14:543][582]LogSavePackage: Save=28.86ms
+[2019.04.17-14.06.14:543][582]LogSavePackage: Moving '../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Icantfindyourmap_Auto45B1871D0476F34901A8C44B9E84DC2EB.tmp' to '../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Autosaves/Game/Icantfindyourmap_Auto4.umap'
+[2019.04.17-14.06.14:549][582]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Autosaves/Game/Icantfindyourmap_Auto4.umap
+[2019.04.17-14.06.14:556][582]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Icantfindyourmap' took 0.080
+[2019.04.17-14.06.14:556][582]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.080
+[2019.04.17-14.11.00:409][533]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.17-14.11.00:431][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icantfindyourmap" FILE="../../../../../../Desktop/FIT3094/Week06/Flocking/Content/Icantfindyourmap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.17-14.11.00:481][533]LogSavePackage: Save=23.74ms
+[2019.04.17-14.11.00:481][533]LogSavePackage: Moving '../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Icantfindyourmap38703A3246493C5DB7865FBE00600696.tmp' to '../../../../../../Desktop/FIT3094/Week06/Flocking/Content/Icantfindyourmap.umap'
+[2019.04.17-14.11.00:490][533]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/FIT3094/Week06/Flocking/Content/Icantfindyourmap.umap
+[2019.04.17-14.11.00:516][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Icantfindyourmap_BuiltData" FILE="../../../../../../Desktop/FIT3094/Week06/Flocking/Content/Icantfindyourmap_BuiltData.uasset" SILENT=true
+[2019.04.17-14.11.00:552][533]LogSavePackage: Save=15.28ms
+[2019.04.17-14.11.00:552][533]LogSavePackage: Moving '../../../../../../Desktop/FIT3094/Week06/Flocking/Saved/Icantfindyourmap_BuiltData32F420B3486AA9F6809C70BD8EFBA476.tmp' to '../../../../../../Desktop/FIT3094/Week06/Flocking/Content/Icantfindyourmap_BuiltData.uasset'
+[2019.04.17-14.11.00:556][533]LogSavePackage: Display: Finished SavePackage ../../../../../../Desktop/FIT3094/Week06/Flocking/Content/Icantfindyourmap_BuiltData.uasset
+[2019.04.17-14.11.01:513][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.17-14.11.01:751][592]LogSlate: Window 'Flocking - Unreal Editor' being destroyed
+[2019.04.17-14.11.01:756][592]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.17-14.11.02:091][593]Cmd: QUIT_EDITOR
+[2019.04.17-14.11.03:061][593]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.17-14.11.03:062][593]LogExit: Preparing to exit.
+[2019.04.17-14.11.04:145][593]LogDirectoryWatcher: A directory notification for 'C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Content/' was aborted.
+[2019.04.17-14.11.04:199][593]LogExit: Editor shut down
+[2019.04.17-14.11.04:227][593]LogExit: Transaction tracking system shut down
+[2019.04.17-14.11.04:430][593]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.04.17-14.11.04:430][593]LogDirectoryWatcher: A directory notification for '../../../../../../Desktop/FIT3094/Week06/Flocking/Content/' was aborted.
+[2019.04.17-14.11.04:431][593]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2019.04.17-14.11.04:431][593]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2019.04.17-14.11.04:431][593]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.04.17-14.11.04:431][593]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.04.17-14.11.04:431][593]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.04.17-14.11.04:431][593]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.04.17-14.11.04:553][593]LogExit: Object subsystem successfully closed.
+[2019.04.17-14.11.04:592][593]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.17-14.11.04:599][593]LogD3D11RHI: Shutdown
+[2019.04.17-14.11.04:599][593]LogD3D11RHI: CleanupD3DDevice
+[2019.04.17-14.11.04:606][593]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.17-14.11.04:688][593]LogModuleManager: Shutting down and abandoning module Flocking (602)
+[2019.04.17-14.11.04:688][593]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (582)
+[2019.04.17-14.11.04:688][593]LogModuleManager: Shutting down and abandoning module NewLevelDialog (580)
+[2019.04.17-14.11.04:688][593]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (578)
+[2019.04.17-14.11.04:688][593]LogModuleManager: Shutting down and abandoning module DesktopPlatform (576)
+[2019.04.17-14.11.04:689][593]LogModuleManager: Shutting down and abandoning module SceneOutliner (574)
+[2019.04.17-14.11.04:689][593]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
+[2019.04.17-14.11.04:689][593]LogDirectoryWatcher: A directory notification for 'C:/Users/Vincent/Downloads/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2019.04.17-14.11.04:694][593]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
+[2019.04.17-14.11.04:694][593]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
+[2019.04.17-14.11.04:694][593]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
+[2019.04.17-14.11.04:694][593]LogDirectoryWatcher: A directory notification for 'C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Content/Collections/' was aborted.
+[2019.04.17-14.11.04:694][593]LogDirectoryWatcher: A directory notification for 'C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Content/Developers/Vincent/Collections/' was aborted.
+[2019.04.17-14.11.04:694][593]LogDirectoryWatcher: A directory notification for 'C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Saved/Collections/' was aborted.
+[2019.04.17-14.11.04:694][593]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (564)
+[2019.04.17-14.11.04:694][593]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2019.04.17-14.11.04:694][593]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2019.04.17-14.11.04:695][593]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2019.04.17-14.11.04:696][593]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2019.04.17-14.11.04:696][593]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2019.04.17-14.11.04:696][593]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2019.04.17-14.11.04:696][593]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2019.04.17-14.11.04:696][593]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2019.04.17-14.11.04:696][593]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2019.04.17-14.11.04:696][593]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2019.04.17-14.11.04:696][593]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2019.04.17-14.11.04:696][593]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2019.04.17-14.11.04:696][593]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2019.04.17-14.11.04:696][593]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2019.04.17-14.11.04:696][593]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2019.04.17-14.11.04:696][593]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2019.04.17-14.11.04:755][593]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2019.04.17-14.11.04:755][593]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2019.04.17-14.11.04:755][593]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2019.04.17-14.11.04:755][593]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2019.04.17-14.11.04:755][593]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2019.04.17-14.11.04:755][593]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2019.04.17-14.11.04:755][593]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2019.04.17-14.11.04:755][593]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2019.04.17-14.11.04:755][593]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2019.04.17-14.11.04:755][593]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2019.04.17-14.11.04:755][593]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2019.04.17-14.11.04:755][593]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2019.04.17-14.11.04:755][593]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2019.04.17-14.11.04:755][593]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2019.04.17-14.11.04:756][593]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2019.04.17-14.11.04:756][593]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2019.04.17-14.11.04:756][593]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2019.04.17-14.11.04:756][593]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2019.04.17-14.11.04:756][593]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2019.04.17-14.11.04:756][593]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2019.04.17-14.11.04:756][593]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2019.04.17-14.11.04:811][593]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2019.04.17-14.11.04:811][593]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2019.04.17-14.11.04:811][593]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2019.04.17-14.11.04:811][593]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2019.04.17-14.11.04:811][593]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2019.04.17-14.11.04:811][593]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2019.04.17-14.11.04:812][593]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2019.04.17-14.11.04:812][593]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2019.04.17-14.11.04:812][593]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2019.04.17-14.11.04:812][593]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2019.04.17-14.11.04:812][593]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2019.04.17-14.11.04:813][593]LogModuleManager: Shutting down and abandoning module ProfilerService (376)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module TaskGraph (374)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module SteamVRController (372)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (370)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (368)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module OculusInput (366)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (364)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (362)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module CableComponent (360)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module AudioCapture (358)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (356)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module AndroidPermission (354)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (350)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (348)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (346)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module MediaCompositing (344)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module LinearTimecode (342)
+[2019.04.17-14.11.04:853][593]LogModuleManager: Shutting down and abandoning module ImgMedia (340)
+[2019.04.17-14.11.04:857][593]LogModuleManager: Shutting down and abandoning module HTML5Networking (338)
+[2019.04.17-14.11.04:857][593]LogModuleManager: Shutting down and abandoning module AlembicImporter (336)
+[2019.04.17-14.11.04:857][593]LogModuleManager: Shutting down and abandoning module AlembicLibrary (335)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module GeometryCache (334)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (333)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module DatasmithContent (328)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (326)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module PluginBrowser (324)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (322)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (320)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module CryptoKeys (318)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (316)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (314)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module UObjectPlugin (312)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (310)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (308)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module GitSourceControl (306)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module SourceControl (305)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (302)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module MeshPaint (293)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2019.04.17-14.11.04:858][593]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2019.04.17-14.11.04:959][593]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2019.04.17-14.11.05:060][593]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2019.04.17-14.11.05:060][593]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2019.04.17-14.11.05:060][593]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2019.04.17-14.11.05:060][593]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2019.04.17-14.11.05:060][593]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2019.04.17-14.11.05:060][593]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2019.04.17-14.11.05:061][593]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2019.04.17-14.11.05:061][593]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2019.04.17-14.11.05:061][593]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2019.04.17-14.11.05:061][593]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2019.04.17-14.11.05:061][593]LogDirectoryWatcher: A directory notification for 'C:/Users/Vincent/Desktop/FIT3094/Week06/Flocking/Binaries/Win64' was aborted.
+[2019.04.17-14.11.05:062][593]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2019.04.17-14.11.05:063][593]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2019.04.17-14.11.05:063][593]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2019.04.17-14.11.05:063][593]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2019.04.17-14.11.05:063][593]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2019.04.17-14.11.05:191][593]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2019.04.17-14.11.05:192][593]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2019.04.17-14.11.05:192][593]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2019.04.17-14.11.05:193][593]LogModuleManager: Shutting down and abandoning module Media (233)
+[2019.04.17-14.11.05:199][593]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2019.04.17-14.11.05:199][593]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2019.04.17-14.11.05:199][593]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2019.04.17-14.11.05:200][593]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2019.04.17-14.11.05:203][593]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2019.04.17-14.11.05:203][593]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2019.04.17-14.11.05:203][593]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2019.04.17-14.11.05:203][593]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2019.04.17-14.11.05:203][593]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2019.04.17-14.11.05:203][593]LogModuleManager: Shutting down and abandoning module Core (178)
+[2019.04.17-14.11.05:203][593]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2019.04.17-14.11.05:203][593]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2019.04.17-14.11.05:203][593]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2019.04.17-14.11.05:203][593]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2019.04.17-14.11.05:203][593]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2019.04.17-14.11.05:203][593]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2019.04.17-14.11.05:203][593]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2019.04.17-14.11.05:203][593]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2019.04.17-14.11.05:203][593]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2019.04.17-14.11.05:203][593]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2019.04.17-14.11.05:210][593]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.04.17-14.11.05:302][593]LogDerivedDataCache: Shutdown
+[2019.04.17-14.11.05:302][593]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.04.17-14.11.05:302][593]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.04.17-14.11.05:302][593]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.04.17-14.11.05:302][593]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.04.17-14.11.05:302][593]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.04.17-14.11.05:302][593]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.04.17-14.11.05:302][593]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.04.17-14.11.05:302][593]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.04.17-14.11.05:302][593]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.04.17-14.11.05:302][593]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.04.17-14.11.05:302][593]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2019.04.17-14.11.05:303][593]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2019.04.17-14.11.05:304][593]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2019.04.17-14.11.05:304][593]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2019.04.17-14.11.05:304][593]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2019.04.17-14.11.05:304][593]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2019.04.17-14.11.05:304][593]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2019.04.17-14.11.05:304][593]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2019.04.17-14.11.05:304][593]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2019.04.17-14.11.05:304][593]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2019.04.17-14.11.05:304][593]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2019.04.17-14.11.05:304][593]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.04.17-14.11.05:304][593]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.04.17-14.11.05:304][593]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.04.17-14.11.05:304][593]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.04.17-14.11.05:304][593]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.17-14.11.05:304][593]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5FDBA56A-44EC-FFCC-D6FE-2D9A95DAA619%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=f1e7697a46af1ae21f9f31940ca68ce9%7Cf4b25472bd0b4f4facef5915cbfd49dd%7Cb7136950-6a41-45f4-82e0-29905384829e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.17-14.11.05:338][593]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.04.17-14.11.05:340][593]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.17-14.11.05:340][593]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.17-14.11.05:340][593]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.17-14.11.05:340][593]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.17-14.11.05:340][593]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.17-14.11.05:340][593]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.17-14.11.05:340][593]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.17-14.11.05:344][593]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.17-14.11.05:344][593]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.17-14.11.05:344][593]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.17-14.11.05:344][593]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.17-14.11.05:344][593]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.17-14.11.05:344][593]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.17-14.11.05:344][593]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.17-14.11.05:344][593]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.17-14.11.05:344][593]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.17-14.11.05:344][593]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.17-14.11.05:344][593]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.17-14.11.05:351][593]LogExit: Exiting.
+[2019.04.17-14.11.05:370][593]Log file closed, 04/18/19 00:11:05
